@@ -1,0 +1,13 @@
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.env
+data/
+data_eval/
+data_spacenet/
+uploads/
+outputs/
+weights/
+.pytest_cache/
+
